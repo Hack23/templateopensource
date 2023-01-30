@@ -9,8 +9,10 @@ Recommended Badges, examples only
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/templateopensource/badge)](https://api.securityscorecards.dev/projects/github.com/Hack23/templateopensource)
 
 
+The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. 
 FLOSS Best Practices Criteria (Passing Badge) https://bestpractices.coreinfrastructure.org/en/criteria/0
-Configure  https://github.com/ossf/scorecard
 
-OpenSFF Scorecard https://securityscorecards.dev/
+
 Scorecard assesses open source projects for security risks through a series of automated checks
+OpenSFF Scorecard https://securityscorecards.dev/
+Configure  https://github.com/ossf/scorecard
