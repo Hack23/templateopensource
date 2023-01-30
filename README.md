@@ -11,3 +11,6 @@ Recommended Badges, examples only
 
 FLOSS Best Practices Criteria (Passing Badge) https://bestpractices.coreinfrastructure.org/en/criteria/0
 Configure  https://github.com/ossf/scorecard
+
+OpenSFF Scorecard https://securityscorecards.dev/
+Scorecard assesses open source projects for security risks through a series of automated checks
