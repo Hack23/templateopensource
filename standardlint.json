@@ -7,7 +7,7 @@
    { "name": "checkForPresenceCiConfig"},
    { "name": "checkForPresenceCodeowners"},    
    { "name": "checkForPresenceContributing"},
-   { "name": "checkForPresenceTemplateIssues" , "path" : ".github/ISSUE_TEMPLATE/bug_report.md"},
+   { "name": "checkForPresenceTemplateIssues", "path" : ".github/ISSUE_TEMPLATE/bug_report.md"},
    { "name": "checkForPresenceTemplatePullRequests", "path" : "PULL_REQUEST_TEMPLATE.md"}
   ]
 }
