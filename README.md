@@ -1,5 +1,5 @@
 # templateopensource
-Template for project following github Community Standards https://github.com/Hack23/templateopensource/community 
+Template for project following github Community Standards https://github.com/Hack23/templateopensource/community and validate existence using https://github.com/mikaelvesavuori/standardlint in workflow
 
 Good pre launch check list https://opensource.guide/starting-a-project/#your-pre-launch-checklist
 
