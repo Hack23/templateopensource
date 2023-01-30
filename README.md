@@ -5,5 +5,5 @@ Good pre launch check list https://opensource.guide/starting-a-project/#your-pre
 
 Recommended Badges, examples only 
 [![license](https://img.shields.io/github/license/Hack23/templateopensource.svg)]([https://github.com/Hack23/templateopensource](https://github.com/Hack23/templateopensource)/raw/master/LICENSE.md)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4545/badge)](https://bestpractices.coreinfrastructure.org/projects/4545)
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/4545/badge)](https://bestpractices.coreinfrastructure.org/projects/4545)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin/badge)](https://api.securityscorecards.dev/projects/github.com/Hack23/sonar-cloudformation-plugin)
